@@ -1,0 +1,1 @@
+# hotel_city_capacity_reason_weather_domestic_coastal_v0
